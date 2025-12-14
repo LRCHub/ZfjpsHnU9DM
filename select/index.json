@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "未来は風のように",
+  "base_artist": "Liella!",
+  "createdAt": "2025-12-14T07:06:14.859886Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "未来は風のように",
+      "artist": "Liella!",
+      "has_synced": true,
+      "path": "select/01_未来は風のように_Liella!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "未来は風のように (Off Vocal)",
+      "artist": "Liella!",
+      "has_synced": true,
+      "path": "select/02_未来は風のように_(Off_Vocal)_Liella!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "未来は風のように - Mirai wa Kaze no you ni",
+      "artist": "Liella!",
+      "has_synced": true,
+      "path": "select/03_未来は風のように_-_Mirai_wa_Kaze_no_you_ni_Liella!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "未来は風のように",
+      "artist": "Liella!",
+      "has_synced": false,
+      "path": "select/pl_01_未来は風のように_Liella!.txt"
+    }
+  ]
+}
